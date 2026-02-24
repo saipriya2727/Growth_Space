@@ -70,3 +70,5 @@ Reduced user confusion through simplified navigation
 Created a scalable design system for future feature expansion
 Designed an engaging productivity-focused interface
 
+# https://www.figma.com/design/iOBMWh2j5jaKASTCpapgRi/Demo?node-id=75-577&t=o0VRzK2uSuuPH7nL-1
+
