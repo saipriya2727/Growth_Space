@@ -1,4 +1,5 @@
 ## 🌱 Growth Space – UI/UX Case Study
+# https://www.figma.com/design/iOBMWh2j5jaKASTCpapgRi/Demo?node-id=75-577&t=o0VRzK2uSuuPH7nL-1
 # 🧠 Project Overview
 Growth Space is a personal development and career growth platform designed to help users track goals, build skills, and monitor progress in a structured and motivating way.
 The objective was to create a clean, intuitive, and user-friendly interface that enhances productivity while maintaining a minimal and modern design aesthetic.
@@ -70,5 +71,4 @@ Reduced user confusion through simplified navigation
 Created a scalable design system for future feature expansion
 Designed an engaging productivity-focused interface
 
-# https://www.figma.com/design/iOBMWh2j5jaKASTCpapgRi/Demo?node-id=75-577&t=o0VRzK2uSuuPH7nL-1
 
